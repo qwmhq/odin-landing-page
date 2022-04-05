@@ -1,0 +1,1 @@
+This is a landing page based on the instructions [here](https://www.theodinproject.com/lessons/foundations-landing-page). Live preview can be found [here](https://qwmhq.github.io/odin-landing-page/)
